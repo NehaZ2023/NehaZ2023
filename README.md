@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nehaz
 - 👀 I'm Interested in Data Analysis, Machine Learning, and Data Visualization to solve real-world problems.
-- 🌱 I’m currently pursuing a PG program in data science and machine learning to enhance my skills.
 - 🔭 Exploring various datasets and projects related to data science.
 - 🌱 Learning and growing with Data Science Learning Resources or Courses
 - 💞️  Let's connect and collaborate on all things data science!
