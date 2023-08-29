@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm NehaZ2023, and I have a passion for data analysis, machine learning, and data visualization. I'm constantly seeking to apply these skills to solve real-world problems. This repository is a collection of my projects and explorations in the fields of SQL, Excel, PowerBI, Python, Tableau, Machine Learning, Artificial Intelligence, and Deep Learning.
+Hey there! I'm NehaZ2023, and I have a passion for data analysis, machine learning, and data visualization. I'm constantly seeking to apply these skills to solve real-world problems. This repository is a collection of my projects and explorations in the fields of SQL, Python, Tableau, R, Excel, PowerBI, Machine Learning, Artificial Intelligence, and Deep Learning.
 
 ## Repository Contents
 
