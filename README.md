@@ -9,10 +9,11 @@ Hey there! I'm NehaZ2023, and I have a passion for data analysis, machine learni
 This repository contains a diverse range of projects and code related to the following areas:
 
 - SQL
-- Excel
-- PowerBI
 - Python
 - Tableau
+- R
+- Excel
+- PowerBI
 - Machine Learning
 - Artificial Intelligence
 - Deep Learning
